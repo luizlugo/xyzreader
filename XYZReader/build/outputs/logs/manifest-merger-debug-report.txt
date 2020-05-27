@@ -1,227 +1,236 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-MERGED from [com.android.support:support-v13:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c4ba046a01aa40e29f51ea1ba0e3255e/support-v13-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8d70e6b11cdc509fc4f71b86c2b7aea8/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ca262e28c9562f0ef84753a4b7dbe672/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:palette-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b243df1cc178597235c771fbaff74787/palette-v7-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2c50f0a3048d66a3ff4ce4ca1bd796d5/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2d752f9946feac1fe39bc9e651e90159/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/eba7fd0388bf870ec7a0c0c82d597a22/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b532cf72ae5fcc4ee05b47458263d6a/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/71bb59d1be49b33fbd27c1aa69875540/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/5530dcf108f9a4e46bff66d3340fe6f8/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ac5021054745b8a85914de976d550ffb/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2df98b21663110ee4805f616d215fadc/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/e8dc7f7f1be0d943d7a8cfd239fcc583/loader-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c9201d82d5489fcafa9b278ae063b66e/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/823fda99d6b45a47b4984c8175d19f6f/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0542cacff89887274905dc6381c27c59/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/56847fa2d3802efceb0cf1d98da2b98b/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/85f479012dfd9e31991e9ac05b67a6ab/customview-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3dc1b3d34313cc9faa5f0dcad8d60794/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b4c51c10372413498a0e60f1974c8f3/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/1ab46a9241a9fa522836e0d8f67d04f3/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/640a68609c6ef38be43967af32e5259c/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/86b1e3c30e453f8c9ee8a0d015ca3f44/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8c4c3be59b67146fb4817bda1d400fca/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/59b45a64925f20fe2bdabf8dd86d320b/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/74cd348f55c48440a2c68664a58c0d92/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/fc466eeeafbbeac8f0be859cd526ce43/print-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d829d4604f7a71fd920ff64140b706b5/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9ea12b3758b2dd41be218bbd598c117b/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8c5247c4de721de9ef6ad4cde196568f/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/516505ad8bad166699aacc1977595880/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/4b086def0f8bd7ccd376fda9fc615853/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8600846ac30abee12b7fdabf161f8a01/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b836c9b9ab0889695ba34cde8cdfad95/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/da8b1185308945ad68e6657c1db95909/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9397c51e2e51215251e7c60272849e67/palette-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ff1c25e01a331e6e09befaf3e5299275/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9dd4176eb1a92b16263c45a85c8ed7b4/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/597f259583c753ed4aa70d3d6e5f508f/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/eb3ba007c1399f0287bd1dce51d253da/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/50b541944f7fbea4a673d98050a67c78/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/74d5065a1203ed83f1b21205e3a45c5e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/6be66a664d6707001b73aebf776cb5d3/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/34e1739410198dc4402202291370bcf7/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/aa83b4a3ca76340c4cdbc74d87f3ce66/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/5ca6b5bcbd9d132fd05a426140ea10f6/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/419fb95bb3ef269a0a100ba4ba991215/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d5b223a83a1c4b544b1c2d666acd6c14/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9ec1f111ce02bb4fe2b70ddb79a36723/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/bfa8a2e76b1e82df527916339977fb85/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3f8a5c9344a4cf7edb4c26b775679ced/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/72926b9083dbe17147c1a75e8e5827ee/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/440cf4f3a313bf112fc5582225c50a04/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/765397cb1ff8e140e6ac6fc8296e2171/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ffe33e443a32b90fe2dfc4e50fa97722/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/64ca8a75285bed56d10ff513471b2461/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/25d79fdbc990a2f4bb7699ee0daf26a0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9933c6eea893d52450833c4d682ce725/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/21ae1ff8fe4ad847f94e7bdacd87870e/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/033e0738647748c230d44d4bdd42b345/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/48359cff45f661780d016541062bd437/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0034c98f7efafb485ebc6ebe32d82c2d/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/614d06def4ae2146e3f0dd53e63c41c3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/7fea5240a85c110cbbcc74292a23ad89/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f152d71ba2253ed3c6c4f75cfaddec5f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/10992a98815a61d9b5280bc6cdabbb0b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/95d4c5969a665cef88e5487ae36b99cd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
 	package
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:2:5-36
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:6:5-67
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:7:5-81
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:8:5-75
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:8:5-75
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:8:22-72
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:8:22-72
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:9:5-79
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:9:22-76
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:11:5-47:19
-MERGED from [com.android.support:support-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/1ab46a9241a9fa522836e0d8f67d04f3/support-compat-28.0.0/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/1ab46a9241a9fa522836e0d8f67d04f3/support-compat-28.0.0/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/640a68609c6ef38be43967af32e5259c/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/640a68609c6ef38be43967af32e5259c/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-47:19
+MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ffe33e443a32b90fe2dfc4e50fa97722/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ffe33e443a32b90fe2dfc4e50fa97722/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/48359cff45f661780d016541062bd437/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/48359cff45f661780d016541062bd437/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/1ab46a9241a9fa522836e0d8f67d04f3/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+		ADDED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ffe33e443a32b90fe2dfc4e50fa97722/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-43
 activity#com.example.xyzreader.ui.ArticleListActivity
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:18:13-51
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:18:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:22:27-74
 activity#com.example.xyzreader.ui.ArticleDetailActivity
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
 	android:parentActivityName
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:28:13-65
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:28:13-65
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:27:13-53
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:27:13-53
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.VIEW
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:31:17-76
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:17-76
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:31:27-73
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:27-73
 data
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:32:17-100
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:17-100
 	android:mimeType
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:32:23-97
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:23-97
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
 	android:value
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:36:17-56
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:36:17-56
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:35:17-63
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:35:17-63
 service#com.example.xyzreader.data.UpdaterService
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
 	android:exported
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:40:13-37
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:39:18-53
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:39:18-53
 provider#com.example.xyzreader.data.ItemsProvider
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
 	android:authorities
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:43:13-56
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:43:13-56
 	android:exported
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:44:13-37
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:42:19-53
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:42:19-53
 uses-library#org.apache.http.legacy
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:46:9-87
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:9-87
 	android:required
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:46:61-85
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:61-85
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:46:23-60
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:23-60
 uses-sdk
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v13:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c4ba046a01aa40e29f51ea1ba0e3255e/support-v13-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c4ba046a01aa40e29f51ea1ba0e3255e/support-v13-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8d70e6b11cdc509fc4f71b86c2b7aea8/support-v4-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8d70e6b11cdc509fc4f71b86c2b7aea8/support-v4-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ca262e28c9562f0ef84753a4b7dbe672/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ca262e28c9562f0ef84753a4b7dbe672/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:palette-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b243df1cc178597235c771fbaff74787/palette-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:palette-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b243df1cc178597235c771fbaff74787/palette-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2c50f0a3048d66a3ff4ce4ca1bd796d5/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2c50f0a3048d66a3ff4ce4ca1bd796d5/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2d752f9946feac1fe39bc9e651e90159/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2d752f9946feac1fe39bc9e651e90159/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/eba7fd0388bf870ec7a0c0c82d597a22/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/eba7fd0388bf870ec7a0c0c82d597a22/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b532cf72ae5fcc4ee05b47458263d6a/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b532cf72ae5fcc4ee05b47458263d6a/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/71bb59d1be49b33fbd27c1aa69875540/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/71bb59d1be49b33fbd27c1aa69875540/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/5530dcf108f9a4e46bff66d3340fe6f8/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/5530dcf108f9a4e46bff66d3340fe6f8/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ac5021054745b8a85914de976d550ffb/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ac5021054745b8a85914de976d550ffb/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2df98b21663110ee4805f616d215fadc/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2df98b21663110ee4805f616d215fadc/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/e8dc7f7f1be0d943d7a8cfd239fcc583/loader-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/e8dc7f7f1be0d943d7a8cfd239fcc583/loader-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c9201d82d5489fcafa9b278ae063b66e/viewpager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c9201d82d5489fcafa9b278ae063b66e/viewpager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/823fda99d6b45a47b4984c8175d19f6f/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/823fda99d6b45a47b4984c8175d19f6f/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0542cacff89887274905dc6381c27c59/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0542cacff89887274905dc6381c27c59/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/56847fa2d3802efceb0cf1d98da2b98b/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/56847fa2d3802efceb0cf1d98da2b98b/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/85f479012dfd9e31991e9ac05b67a6ab/customview-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/85f479012dfd9e31991e9ac05b67a6ab/customview-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3dc1b3d34313cc9faa5f0dcad8d60794/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3dc1b3d34313cc9faa5f0dcad8d60794/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b4c51c10372413498a0e60f1974c8f3/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b4c51c10372413498a0e60f1974c8f3/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/1ab46a9241a9fa522836e0d8f67d04f3/support-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/1ab46a9241a9fa522836e0d8f67d04f3/support-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/640a68609c6ef38be43967af32e5259c/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/640a68609c6ef38be43967af32e5259c/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/86b1e3c30e453f8c9ee8a0d015ca3f44/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/86b1e3c30e453f8c9ee8a0d015ca3f44/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8c4c3be59b67146fb4817bda1d400fca/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8c4c3be59b67146fb4817bda1d400fca/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/59b45a64925f20fe2bdabf8dd86d320b/documentfile-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/59b45a64925f20fe2bdabf8dd86d320b/documentfile-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/74cd348f55c48440a2c68664a58c0d92/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/74cd348f55c48440a2c68664a58c0d92/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/fc466eeeafbbeac8f0be859cd526ce43/print-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/fc466eeeafbbeac8f0be859cd526ce43/print-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d829d4604f7a71fd920ff64140b706b5/interpolator-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d829d4604f7a71fd920ff64140b706b5/interpolator-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9ea12b3758b2dd41be218bbd598c117b/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9ea12b3758b2dd41be218bbd598c117b/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8c5247c4de721de9ef6ad4cde196568f/livedata-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8c5247c4de721de9ef6ad4cde196568f/livedata-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/516505ad8bad166699aacc1977595880/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/516505ad8bad166699aacc1977595880/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/4b086def0f8bd7ccd376fda9fc615853/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/4b086def0f8bd7ccd376fda9fc615853/runtime-1.1.1/AndroidManifest.xml:20:5-44
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8600846ac30abee12b7fdabf161f8a01/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8600846ac30abee12b7fdabf161f8a01/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b836c9b9ab0889695ba34cde8cdfad95/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b836c9b9ab0889695ba34cde8cdfad95/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/da8b1185308945ad68e6657c1db95909/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/da8b1185308945ad68e6657c1db95909/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9397c51e2e51215251e7c60272849e67/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9397c51e2e51215251e7c60272849e67/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ff1c25e01a331e6e09befaf3e5299275/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ff1c25e01a331e6e09befaf3e5299275/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9dd4176eb1a92b16263c45a85c8ed7b4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9dd4176eb1a92b16263c45a85c8ed7b4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/597f259583c753ed4aa70d3d6e5f508f/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/597f259583c753ed4aa70d3d6e5f508f/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/eb3ba007c1399f0287bd1dce51d253da/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/eb3ba007c1399f0287bd1dce51d253da/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/50b541944f7fbea4a673d98050a67c78/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/50b541944f7fbea4a673d98050a67c78/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/74d5065a1203ed83f1b21205e3a45c5e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/74d5065a1203ed83f1b21205e3a45c5e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/6be66a664d6707001b73aebf776cb5d3/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/6be66a664d6707001b73aebf776cb5d3/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/34e1739410198dc4402202291370bcf7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/34e1739410198dc4402202291370bcf7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/aa83b4a3ca76340c4cdbc74d87f3ce66/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/aa83b4a3ca76340c4cdbc74d87f3ce66/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/5ca6b5bcbd9d132fd05a426140ea10f6/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/5ca6b5bcbd9d132fd05a426140ea10f6/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/419fb95bb3ef269a0a100ba4ba991215/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/419fb95bb3ef269a0a100ba4ba991215/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d5b223a83a1c4b544b1c2d666acd6c14/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d5b223a83a1c4b544b1c2d666acd6c14/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9ec1f111ce02bb4fe2b70ddb79a36723/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9ec1f111ce02bb4fe2b70ddb79a36723/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/bfa8a2e76b1e82df527916339977fb85/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/bfa8a2e76b1e82df527916339977fb85/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3f8a5c9344a4cf7edb4c26b775679ced/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3f8a5c9344a4cf7edb4c26b775679ced/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/72926b9083dbe17147c1a75e8e5827ee/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/72926b9083dbe17147c1a75e8e5827ee/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/440cf4f3a313bf112fc5582225c50a04/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/440cf4f3a313bf112fc5582225c50a04/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/765397cb1ff8e140e6ac6fc8296e2171/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/765397cb1ff8e140e6ac6fc8296e2171/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ffe33e443a32b90fe2dfc4e50fa97722/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ffe33e443a32b90fe2dfc4e50fa97722/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/64ca8a75285bed56d10ff513471b2461/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/64ca8a75285bed56d10ff513471b2461/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/25d79fdbc990a2f4bb7699ee0daf26a0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/25d79fdbc990a2f4bb7699ee0daf26a0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9933c6eea893d52450833c4d682ce725/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9933c6eea893d52450833c4d682ce725/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/21ae1ff8fe4ad847f94e7bdacd87870e/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/21ae1ff8fe4ad847f94e7bdacd87870e/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/033e0738647748c230d44d4bdd42b345/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/033e0738647748c230d44d4bdd42b345/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/48359cff45f661780d016541062bd437/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/48359cff45f661780d016541062bd437/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0034c98f7efafb485ebc6ebe32d82c2d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0034c98f7efafb485ebc6ebe32d82c2d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/614d06def4ae2146e3f0dd53e63c41c3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/614d06def4ae2146e3f0dd53e63c41c3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/7fea5240a85c110cbbcc74292a23ad89/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/7fea5240a85c110cbbcc74292a23ad89/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f152d71ba2253ed3c6c4f75cfaddec5f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f152d71ba2253ed3c6c4f75cfaddec5f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/10992a98815a61d9b5280bc6cdabbb0b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/10992a98815a61d9b5280bc6cdabbb0b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/95d4c5969a665cef88e5487ae36b99cd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/95d4c5969a665cef88e5487ae36b99cd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml

@@ -1,4 +1,4 @@
-#Tue May 26 21:07:22 CDT 2020
-base.0=/Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/build/intermediates/dex/debug/out/classes.dex
+#Tue May 26 21:13:58 CDT 2020
+base.0=/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

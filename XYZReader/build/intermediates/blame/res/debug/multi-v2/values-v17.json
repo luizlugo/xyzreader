@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/ca262e28c9562f0ef84753a4b7dbe672/appcompat-v7-28.0.0/res/values-v17/values-v17.xml",
+                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/da8b1185308945ad68e6657c1db95909/appcompat-1.1.0/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

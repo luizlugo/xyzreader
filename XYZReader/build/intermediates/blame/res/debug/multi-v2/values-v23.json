@@ -1,21 +1,21 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/luislugo/Documents/work/volcanolabs/training/xyz-reader-starter-code/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/ca262e28c9562f0ef84753a4b7dbe672/appcompat-v7-28.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/da8b1185308945ad68e6657c1db95909/appcompat-1.1.0/res/values-v23/values-v23.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
-                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
                     }
                 },
                 {
-                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/2d752f9946feac1fe39bc9e651e90159/cardview-v7-28.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/9dd4176eb1a92b16263c45a85c8ed7b4/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -25,12 +25,12 @@
                         "endOffsets": "200"
                     },
                     "to": {
-                        "startLines": "37",
+                        "startLines": "48",
                         "startColumns": "4",
-                        "startOffsets": "2646",
-                        "endLines": "39",
+                        "startOffsets": "3407",
+                        "endLines": "50",
                         "endColumns": "12",
-                        "endOffsets": "2791"
+                        "endOffsets": "3552"
                     }
                 }
             ]
