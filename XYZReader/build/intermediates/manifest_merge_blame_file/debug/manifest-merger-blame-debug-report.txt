@@ -28,7 +28,7 @@
 17        android:allowBackup="true"
 17-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:12:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-18-->[androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ffe33e443a32b90fe2dfc4e50fa97722/core-1.1.0/AndroidManifest.xml:24:18-86
+18-->[androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/761afcccfb700c212f54a9547fd293b3/core-1.1.0/AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
 20        android:icon="@mipmap/ic_launcher"
 20-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:13:9-43

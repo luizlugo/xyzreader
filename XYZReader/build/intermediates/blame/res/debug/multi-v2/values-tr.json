@@ -4,7 +4,7 @@
             "outputFile": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
             "map": [
                 {
-                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/ffe33e443a32b90fe2dfc4e50fa97722/core-1.1.0/res/values-tr/values-tr.xml",
+                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/761afcccfb700c212f54a9547fd293b3/core-1.1.0/res/values-tr/values-tr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/da8b1185308945ad68e6657c1db95909/appcompat-1.1.0/res/values-tr/values-tr.xml",
+                    "source": "/Users/luislugo/.gradle/caches/transforms-2/files-2.1/5fe3c885cde85685800d972af335ba50/appcompat-1.1.0/res/values-tr/values-tr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
