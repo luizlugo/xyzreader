@@ -12,10 +12,6 @@
         "source": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable_white_selectable_item_background_circle.xml.flat",
-        "source": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/res/drawable/white_selectable_item_background_circle.xml"
-    },
-    {
         "merged": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout_fragment_article_detail.xml.flat",
         "source": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/res/layout/fragment_article_detail.xml"
     },

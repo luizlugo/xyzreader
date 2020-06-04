@@ -5,7 +5,7 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="19"
+8        android:minSdkVersion="21"
 8-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="28" />
 9-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
@@ -105,6 +105,15 @@
 59-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:23-60
 60            android:required="false" />
 60-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:61-85
-61    </application>
-62
-63</manifest>
+61
+62        <provider
+62-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+63            android:name="com.squareup.picasso.PicassoProvider"
+63-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+64            android:authorities="com.example.xyzreader.com.squareup.picasso"
+64-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+65            android:exported="false" />
+65-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+66    </application>
+67
+68</manifest>

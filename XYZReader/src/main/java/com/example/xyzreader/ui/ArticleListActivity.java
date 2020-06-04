@@ -18,6 +18,7 @@ import android.text.format.DateUtils;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.Window;
 import android.widget.TextView;
 
 import com.example.xyzreader.R;
@@ -53,6 +54,10 @@ public class ArticleListActivity extends AppCompatActivity implements
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        // Setup shared element transition
+        // getWindow().requestFeature(Window.FEATURE_ACTIVITY_TRANSITIONS);
+
         setContentView(R.layout.activity_article_list);
 
         mToolbar = findViewById(R.id.toolbar);

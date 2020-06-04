@@ -12,6 +12,8 @@ MERGED from [androidx.palette:palette:1.0.0] /Users/luislugo/.gradle/caches/tran
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/409d61b439545df041ca9eb06e5d8c95/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8b9a3eedf18f57f34de2ba5d5a999870/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c841d770f4d29a1b6300a1096a571b11/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f63fac7ac1f36307aea6ec87dff40ac9/jetified-butterknife-10.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.media:media:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8a6b78534e18dd9fa6fdbb9955dbb8e5/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/117d68360e0bfced795aaf4221c20e55/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/23900aca5b3dc58d1ac54ccca97a9ca6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -25,12 +27,14 @@ MERGED from [androidx.customview:customview:1.0.0] /Users/luislugo/.gradle/cache
 MERGED from [androidx.transition:transition:1.2.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/06af5f86978651c4e7ab9b6466b0894d/transition-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ff67c3d812f4358fe86829d1620ab848/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9e88ab2fa6d59b97a2b960896f09b5de/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/89c5d1399d4a82baf1e138fd1a0d1840/jetified-butterknife-runtime-10.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0db2f1b253abdf351a657fca4e8cbfb6/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d018390684f956e566fbd7ec90daa6f5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9fbd58b898d5a826e0cc1b19f104e791/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2c16e95f6dfe32afddf1208a43724b30/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/761afcccfb700c212f54a9547fd293b3/core-1.1.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b40a2a9c7808b56785ec8fd9ff5f869f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/dfd38397a536355a6fb6c36a33a966c4/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f0557ed49f80c34481751b06a482872d/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/dea470539b82dc543d91c44f89dfce57/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/5538a2d1868076c6771b7ac01fc3d453/print-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -79,6 +83,8 @@ application
 ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-47:19
 MERGED from [com.google.android.material:material:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b4ca5ab767e54c5173f673b842169b9/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b4ca5ab767e54c5173f673b842169b9/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
 MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/761afcccfb700c212f54a9547fd293b3/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/761afcccfb700c212f54a9547fd293b3/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9442f62448a833b4dd56e9240a8da724/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -175,6 +181,10 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/c
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8b9a3eedf18f57f34de2ba5d5a999870/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c841d770f4d29a1b6300a1096a571b11/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c841d770f4d29a1b6300a1096a571b11/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f63fac7ac1f36307aea6ec87dff40ac9/jetified-butterknife-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f63fac7ac1f36307aea6ec87dff40ac9/jetified-butterknife-10.2.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.media:media:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8a6b78534e18dd9fa6fdbb9955dbb8e5/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8a6b78534e18dd9fa6fdbb9955dbb8e5/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/117d68360e0bfced795aaf4221c20e55/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
@@ -201,6 +211,8 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luisl
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/ff67c3d812f4358fe86829d1620ab848/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9e88ab2fa6d59b97a2b960896f09b5de/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9e88ab2fa6d59b97a2b960896f09b5de/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/89c5d1399d4a82baf1e138fd1a0d1840/jetified-butterknife-runtime-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/89c5d1399d4a82baf1e138fd1a0d1840/jetified-butterknife-runtime-10.2.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0db2f1b253abdf351a657fca4e8cbfb6/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/0db2f1b253abdf351a657fca4e8cbfb6/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d018390684f956e566fbd7ec90daa6f5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
@@ -213,6 +225,8 @@ MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms
 MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/761afcccfb700c212f54a9547fd293b3/core-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b40a2a9c7808b56785ec8fd9ff5f869f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b40a2a9c7808b56785ec8fd9ff5f869f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/dfd38397a536355a6fb6c36a33a966c4/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/dfd38397a536355a6fb6c36a33a966c4/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f0557ed49f80c34481751b06a482872d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f0557ed49f80c34481751b06a482872d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/dea470539b82dc543d91c44f89dfce57/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
@@ -245,3 +259,11 @@ INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZR
 		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
