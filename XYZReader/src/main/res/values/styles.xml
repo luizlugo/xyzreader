@@ -26,6 +26,7 @@
 
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
     </style>
 
     <style name="h6" parent="TextAppearance.MaterialComponents.Headline6">
@@ -36,6 +37,10 @@
     <style name="body2" parent="TextAppearance.MaterialComponents.Body2">
         <item name="android:ellipsize">end</item>
         <item name="android:maxLines">2</item>
+    </style>
+
+    <style name="Theme.Bacon.Appbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:textColorPrimary">@color/white</item>
     </style>
 
 </resources>

@@ -23,6 +23,7 @@ import android.widget.ImageView;
 import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.data.ItemsContract;
+import com.google.android.material.appbar.MaterialToolbar;
 import com.squareup.picasso.Picasso;
 
 import butterknife.BindView;
@@ -34,7 +35,7 @@ import butterknife.ButterKnife;
 public class ArticleDetailActivity extends AppCompatActivity
         implements LoaderManager.LoaderCallbacks<Cursor> {
     @BindView(R.id.toolbar)
-    Toolbar toolbar;
+    MaterialToolbar toolbar;
     @BindView(R.id.iv_image)
     ImageView ivArticleImage;
 

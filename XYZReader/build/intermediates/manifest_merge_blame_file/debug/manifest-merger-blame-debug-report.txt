@@ -24,7 +24,7 @@
 14-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:9:22-76
 15
 16    <application
-16-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-47:19
+16-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-48:19
 17        android:allowBackup="true"
 17-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:12:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -55,65 +55,67 @@
 31            </intent-filter>
 32        </activity>
 33        <activity
-33-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+33-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:26:9-38:20
 34            android:name="com.example.xyzreader.ui.ArticleDetailActivity"
 34-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:27:13-53
-35            android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity" >
+35            android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity"
 35-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:28:13-65
-36            <intent-filter>
-36-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
-37                <action android:name="android.intent.action.VIEW" />
-37-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:30:17-69
-37-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:30:25-66
-38
-39                <category android:name="android.intent.category.DEFAULT" />
-39-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:17-76
-39-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:27-73
-40
-41                <data android:mimeType="vnd.android.cursor.item/vnd.com.example.xyzreader.items" />
-41-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:17-100
-41-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:23-97
-42            </intent-filter>
-43
-44            <meta-data
-44-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
-45                android:name="android.support.PARENT_ACTIVITY"
-45-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:35:17-63
-46                android:value=".ui.ArticleListActivity" />
-46-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:36:17-56
-47        </activity>
-48
-49        <service
-49-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
-50            android:name="com.example.xyzreader.data.UpdaterService"
-50-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:39:18-53
-51            android:exported="false" />
-51-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:40:13-37
-52
-53        <provider
-53-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
-54            android:name="com.example.xyzreader.data.ItemsProvider"
-54-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:42:19-53
-55            android:authorities="com.example.xyzreader"
-55-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:43:13-56
-56            android:exported="false" />
-56-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:44:13-37
-57
-58        <uses-library
-58-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:9-87
-59            android:name="org.apache.http.legacy"
-59-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:23-60
-60            android:required="false" />
-60-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:61-85
-61
-62        <provider
-62-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
-63            android:name="com.squareup.picasso.PicassoProvider"
-63-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
-64            android:authorities="com.example.xyzreader.com.squareup.picasso"
-64-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
-65            android:exported="false" />
-65-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
-66    </application>
-67
-68</manifest>
+36            android:theme="@style/Theme.Bacon.Detail" >
+36-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:29:13-54
+37            <intent-filter>
+37-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:30:13-34:29
+38                <action android:name="android.intent.action.VIEW" />
+38-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:17-69
+38-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:25-66
+39
+40                <category android:name="android.intent.category.DEFAULT" />
+40-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:17-76
+40-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:27-73
+41
+42                <data android:mimeType="vnd.android.cursor.item/vnd.com.example.xyzreader.items" />
+42-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:33:17-100
+42-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:33:23-97
+43            </intent-filter>
+44
+45            <meta-data
+45-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:35:13-37:59
+46                android:name="android.support.PARENT_ACTIVITY"
+46-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:36:17-63
+47                android:value=".ui.ArticleListActivity" />
+47-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:37:17-56
+48        </activity>
+49
+50        <service
+50-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:40:9-41:40
+51            android:name="com.example.xyzreader.data.UpdaterService"
+51-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:40:18-53
+52            android:exported="false" />
+52-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:41:13-37
+53
+54        <provider
+54-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:43:9-45:40
+55            android:name="com.example.xyzreader.data.ItemsProvider"
+55-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:43:19-53
+56            android:authorities="com.example.xyzreader"
+56-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:44:13-56
+57            android:exported="false" />
+57-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:45:13-37
+58
+59        <uses-library
+59-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:47:9-87
+60            android:name="org.apache.http.legacy"
+60-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:47:23-60
+61            android:required="false" />
+61-->/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:47:61-85
+62
+63        <provider
+63-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+64            android:name="com.squareup.picasso.PicassoProvider"
+64-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+65            android:authorities="com.example.xyzreader.com.squareup.picasso"
+65-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+66            android:exported="false" />
+66-->[com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+67    </application>
+68
+69</manifest>

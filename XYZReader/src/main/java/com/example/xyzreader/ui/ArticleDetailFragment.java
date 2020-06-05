@@ -159,13 +159,12 @@ public class ArticleDetailFragment extends Fragment implements
             return;
         }
 
-        TextView titleView = (TextView) mRootView.findViewById(R.id.article_title);
         TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
         bylineView.setMovementMethod(new LinkMovementMethod());
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
 
         if (mCursor != null) {
-            titleView.setText(mCursor.getString(ArticleLoader.Query.TITLE));
+            // titleView.setText(mCursor.getString(ArticleLoader.Query.TITLE));
             Date publishedDate = parsePublishedDate();
             if (!publishedDate.before(START_OF_EPOCH.getTime())) {
                 bylineView.setText(Html.fromHtml(
@@ -205,9 +204,9 @@ public class ArticleDetailFragment extends Fragment implements
 
                         }
                     });*/
+            mRootView.setVisibility(View.VISIBLE);
         } else {
             mRootView.setVisibility(View.GONE);
-            titleView.setText("N/A");
             bylineView.setText("N/A" );
             bodyView.setText("N/A");
         }

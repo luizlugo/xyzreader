@@ -862,6 +862,7 @@ color theme_primary
 color theme_primary_dark
 color tooltip_background_dark
 color tooltip_background_light
+color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -942,6 +943,7 @@ dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen action_bar_size
 dimen app_bar_elevation
+dimen appbar_height
 dimen appcompat_dialog_background_inset
 dimen card_margin
 dimen card_padding
@@ -1468,7 +1470,6 @@ id design_menu_item_text
 id design_navigation_view
 id dialog_button
 id disableHome
-id draw_insets_frame_layout
 id dropdown_menu
 id edit_query
 id end
@@ -1511,7 +1512,6 @@ id list_item
 id masked
 id media_actions
 id message
-id meta_bar
 id middle
 id mini
 id month_grid
@@ -2285,6 +2285,7 @@ style Theme_AppCompat_Light_DialogWhenLarge
 style Theme_AppCompat_Light_NoActionBar
 style Theme_AppCompat_NoActionBar
 style Theme_Bacon
+style Theme_Bacon_Appbar
 style Theme_Bacon_Detail
 style Theme_Design
 style Theme_Design_BottomSheetDialog

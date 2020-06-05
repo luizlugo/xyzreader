@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/967d6bdce6e801a6baba2526479e6d1d/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/b4fc496749b9cd0d9f4c30a60ba9167d/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b4ca5ab767e54c5173f673b842169b9/material-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -12,7 +12,7 @@ MERGED from [androidx.palette:palette:1.0.0] /Users/luislugo/.gradle/caches/tran
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/409d61b439545df041ca9eb06e5d8c95/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8b9a3eedf18f57f34de2ba5d5a999870/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c841d770f4d29a1b6300a1096a571b11/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
 MERGED from [com.jakewharton:butterknife:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f63fac7ac1f36307aea6ec87dff40ac9/jetified-butterknife-10.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.media:media:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8a6b78534e18dd9fa6fdbb9955dbb8e5/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/117d68360e0bfced795aaf4221c20e55/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -46,9 +46,9 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/luislugo/.gradle/cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/497cbb8a564ebe9958421dcf1b71e7a7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/2ba7adce8b7a1bfbdc4e004177b22f33/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/d81361903fbb13b14993154a906ccb4a/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
 	package
 		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:2:5-36
 		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
@@ -80,11 +80,11 @@ ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZRead
 	android:name
 		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-47:19
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-48:19
 MERGED from [com.google.android.material:material:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b4ca5ab767e54c5173f673b842169b9/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/3b4ca5ab767e54c5173f673b842169b9/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
 MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/761afcccfb700c212f54a9547fd293b3/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/761afcccfb700c212f54a9547fd293b3/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/9442f62448a833b4dd56e9240a8da724/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -116,51 +116,53 @@ ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZRead
 	android:name
 		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:22:27-74
 activity#com.example.xyzreader.ui.ArticleDetailActivity
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:26:9-38:20
 	android:parentActivityName
 		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:28:13-65
+	android:theme
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:29:13-54
 	android:name
 		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:27:13-53
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:30:13-34:29
 action#android.intent.action.VIEW
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:17-76
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:31:27-73
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:27-73
 data
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:17-100
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:33:17-100
 	android:mimeType
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:32:23-97
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:33:23-97
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:35:13-37:59
 	android:value
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:36:17-56
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:37:17-56
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:35:17-63
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:36:17-63
 service#com.example.xyzreader.data.UpdaterService
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:40:9-41:40
 	android:exported
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:40:13-37
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:39:18-53
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:40:18-53
 provider#com.example.xyzreader.data.ItemsProvider
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:43:9-45:40
 	android:authorities
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:43:13-56
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:44:13-56
 	android:exported
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:44:13-37
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:42:19-53
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:43:19-53
 uses-library#org.apache.http.legacy
-ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:9-87
+ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:47:9-87
 	android:required
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:61-85
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:47:61-85
 	android:name
-		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:23-60
+		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml:47:23-60
 uses-sdk
 INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
@@ -181,8 +183,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/c
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8b9a3eedf18f57f34de2ba5d5a999870/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c841d770f4d29a1b6300a1096a571b11/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/c841d770f4d29a1b6300a1096a571b11/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
 MERGED from [com.jakewharton:butterknife:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f63fac7ac1f36307aea6ec87dff40ac9/jetified-butterknife-10.2.1/AndroidManifest.xml:5:5-44
 MERGED from [com.jakewharton:butterknife:10.2.1] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/f63fac7ac1f36307aea6ec87dff40ac9/jetified-butterknife-10.2.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.media:media:1.0.0] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/8a6b78534e18dd9fa6fdbb9955dbb8e5/media-1.0.0/AndroidManifest.xml:20:5-44
@@ -260,10 +262,10 @@ INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZR
 		ADDED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/de73cecbea0a59aa936f9b7f8cf0c828/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/luislugo/.gradle/caches/transforms-2/files-2.1/590f91eb983e404e5702cb7581747f30/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
