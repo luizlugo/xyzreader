@@ -696,6 +696,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black28
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -945,6 +946,7 @@ dimen action_bar_size
 dimen app_bar_elevation
 dimen appbar_height
 dimen appcompat_dialog_background_inset
+dimen base_padding
 dimen card_margin
 dimen card_padding
 dimen cardview_compat_inset_shadow
@@ -1016,6 +1018,7 @@ dimen detail_photo_height
 dimen detail_title_text_size
 dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
+dimen double_padding
 dimen fab_elevation
 dimen fab_margin
 dimen fab_press_translation_z
@@ -2565,7 +2568,9 @@ style Widget_MaterialComponents_Toolbar_Primary
 style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_Support_CoordinatorLayout
+style body1
 style body2
+style caption
 style h6
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity

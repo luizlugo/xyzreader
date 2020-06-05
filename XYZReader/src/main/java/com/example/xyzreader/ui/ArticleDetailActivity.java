@@ -23,6 +23,7 @@ import android.widget.ImageView;
 import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.data.ItemsContract;
+import com.google.android.material.appbar.CollapsingToolbarLayout;
 import com.google.android.material.appbar.MaterialToolbar;
 import com.squareup.picasso.Picasso;
 
@@ -35,9 +36,11 @@ import butterknife.ButterKnife;
 public class ArticleDetailActivity extends AppCompatActivity
         implements LoaderManager.LoaderCallbacks<Cursor> {
     @BindView(R.id.toolbar)
-    MaterialToolbar toolbar;
+    Toolbar toolbar;
     @BindView(R.id.iv_image)
     ImageView ivArticleImage;
+    @BindView(R.id.collapsing_toolbar)
+    CollapsingToolbarLayout collapsingToolbarLayout;
 
     private Cursor mCursor;
     private long mStartId;
@@ -141,7 +144,10 @@ public class ArticleDetailActivity extends AppCompatActivity
             String title = mCursor.getString(ArticleLoader.Query.TITLE);
             String articleImageUrl = mCursor.getString(ArticleLoader.Query.PHOTO_URL);
 
-            toolbar.setTitle(title);
+            if (collapsingToolbarLayout != null) {
+                collapsingToolbarLayout.setTitle(title);
+            }
+
             Picasso.get().load(articleImageUrl).into(ivArticleImage);
         }
     }

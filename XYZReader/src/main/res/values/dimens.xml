@@ -12,5 +12,8 @@
     <dimen name="card_margin">4dp</dimen>
     <dimen name="card_padding">8dp</dimen>
 
-    <dimen name="appbar_height">150dp</dimen>
+    <dimen name="appbar_height">200dp</dimen>
+
+    <dimen name="base_padding">8dp</dimen>
+    <dimen name="double_padding">16dp</dimen>
 </resources>

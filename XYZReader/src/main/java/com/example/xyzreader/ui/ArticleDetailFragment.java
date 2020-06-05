@@ -172,14 +172,14 @@ public class ArticleDetailFragment extends Fragment implements
                                 publishedDate.getTime(),
                                 System.currentTimeMillis(), DateUtils.HOUR_IN_MILLIS,
                                 DateUtils.FORMAT_ABBREV_ALL).toString()
-                                + " by <font color='#ffffff'>"
+                                + " by <font color='#000' style='font-weight:bold'>"
                                 + mCursor.getString(ArticleLoader.Query.AUTHOR)
                                 + "</font>"));
 
             } else {
                 // If date is before 1902, just show the string
                 bylineView.setText(Html.fromHtml(
-                        outputFormat.format(publishedDate) + " by <font color='#ffffff'>"
+                        outputFormat.format(publishedDate) + " by <font color='#000'>"
                         + mCursor.getString(ArticleLoader.Query.AUTHOR)
                                 + "</font>"));
 
