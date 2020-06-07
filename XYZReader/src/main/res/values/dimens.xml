@@ -16,4 +16,7 @@
 
     <dimen name="base_padding">8dp</dimen>
     <dimen name="double_padding">16dp</dimen>
+
+    <dimen name="detail_card_content_elevation">0dp</dimen>
+    <dimen name="toolbar_content_inset">0dp</dimen>
 </resources>

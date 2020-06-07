@@ -56,6 +56,10 @@
         "source": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-sw600dp_fragment_article_detail.xml.flat",
+        "source": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/res/layout-sw600dp/fragment_article_detail.xml"
+    },
+    {
         "merged": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi_logo.png.flat",
         "source": "/Users/luislugo/Documents/work/volcanolabs/training/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
     },

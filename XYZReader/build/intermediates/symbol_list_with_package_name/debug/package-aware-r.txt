@@ -1009,6 +1009,7 @@ dimen design_textinput_caption_translate_y
 dimen detail_body_bottom_margin
 dimen detail_body_text_size
 dimen detail_body_top_margin
+dimen detail_card_content_elevation
 dimen detail_card_max_width
 dimen detail_card_top_margin
 dimen detail_inner_horiz_margin
@@ -1207,6 +1208,7 @@ dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
 dimen test_mtrl_calendar_day_cornerSize
+dimen toolbar_content_inset
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
