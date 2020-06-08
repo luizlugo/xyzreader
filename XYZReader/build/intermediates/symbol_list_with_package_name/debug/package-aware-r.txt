@@ -947,6 +947,7 @@ dimen app_bar_elevation
 dimen appbar_height
 dimen appcompat_dialog_background_inset
 dimen base_padding
+dimen card_elevation
 dimen card_margin
 dimen card_padding
 dimen cardview_compat_inset_shadow
@@ -1020,6 +1021,7 @@ dimen detail_title_text_size
 dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
 dimen double_padding
+dimen fab_button_elevation
 dimen fab_elevation
 dimen fab_margin
 dimen fab_press_translation_z
@@ -1837,6 +1839,7 @@ string action_settings
 string action_share
 string app_name
 string appbar_scrolling_view_behavior
+string article_image_content_description
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_overflowed_content_description
